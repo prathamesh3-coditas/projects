@@ -1,0 +1,22 @@
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\Assign_0710_DB Connect.exe
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\Assign_0710_DB Connect.deps.json
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\Assign_0710_DB Connect.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\Assign_0710_DB Connect.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\Assign_0710_DB Connect.pdb
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.csproj.CopyComplete
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\refint\Assign_0710_DB Connect.dll
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.pdb
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\Assign_0710_DB Connect.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_0710_DB Connect\obj\Debug\net6.0\ref\Assign_0710_DB Connect.dll

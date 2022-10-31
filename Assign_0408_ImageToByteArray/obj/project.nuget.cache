@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+m8o3oFDRsfqV+bvFFh4GMN0+uCleEI0OgAgmZBi8gLJvrB7HjKgYK89sw6B3xLsHHDRXXfirE+jzr20m9rTQ==",
+  "success": true,
+  "projectFilePath": "C:\\.net Training\\NetELTP\\Assign_0408_ImageToByteArray\\Assign_0408_ImageToByteArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Coditas\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

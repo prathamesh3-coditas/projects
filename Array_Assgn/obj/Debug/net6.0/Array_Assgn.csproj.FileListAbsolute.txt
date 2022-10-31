@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Array_Assgn\bin\Debug\net6.0\Array_Assgn.exe
+C:\.net Training\NetELTP\Array_Assgn\bin\Debug\net6.0\Array_Assgn.deps.json
+C:\.net Training\NetELTP\Array_Assgn\bin\Debug\net6.0\Array_Assgn.runtimeconfig.json
+C:\.net Training\NetELTP\Array_Assgn\bin\Debug\net6.0\Array_Assgn.dll
+C:\.net Training\NetELTP\Array_Assgn\bin\Debug\net6.0\Array_Assgn.pdb
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.AssemblyInfo.cs
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.dll
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\refint\Array_Assgn.dll
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.pdb
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\Array_Assgn.genruntimeconfig.cache
+C:\.net Training\NetELTP\Array_Assgn\obj\Debug\net6.0\ref\Array_Assgn.dll

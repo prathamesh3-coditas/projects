@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App.exe
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App.deps.json
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App.runtimeconfig.json
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App.dll
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App.pdb
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.AssemblyInfo.cs
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.dll
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\refint\CS_Gen_App.dll
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.pdb
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App.genruntimeconfig.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\ref\CS_Gen_App.dll

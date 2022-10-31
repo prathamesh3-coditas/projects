@@ -1,0 +1,22 @@
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\Built in Delegates.exe
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\Built in Delegates.deps.json
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\Built in Delegates.runtimeconfig.json
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\Built in Delegates.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\Built in Delegates.pdb
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.AssemblyInfo.cs
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.dll
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\refint\Built in Delegates.dll
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.pdb
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.genruntimeconfig.cache
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\ref\Built in Delegates.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Built in Delegates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Built in Delegates\obj\Debug\net6.0\Built in Delegates.csproj.CopyComplete

@@ -1,0 +1,22 @@
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\Assign_1010_Insert Operation with Validations.exe
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\Assign_1010_Insert Operation with Validations.deps.json
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\Assign_1010_Insert Operation with Validations.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\Assign_1010_Insert Operation with Validations.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\Assign_1010_Insert Operation with Validations.pdb
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.csproj.CopyComplete
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\refint\Assign_1010_Insert Operation with Validations.dll
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.pdb
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\Assign_1010_Insert Operation with Validations.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_1010_Insert Operation with Validations\obj\Debug\net6.0\ref\Assign_1010_Insert Operation with Validations.dll

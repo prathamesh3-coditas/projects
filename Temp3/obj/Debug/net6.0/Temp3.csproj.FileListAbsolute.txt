@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Temp3.exe
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Temp3.deps.json
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Temp3.runtimeconfig.json
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Temp3.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Temp3.pdb
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.AssemblyInfo.cs
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.dll
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\refint\Temp3.dll
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.pdb
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Temp3.genruntimeconfig.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\ref\Temp3.dll

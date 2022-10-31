@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\bin\Debug\net6.0\Assign_2909_Banking App Dict.exe
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\bin\Debug\net6.0\Assign_2909_Banking App Dict.deps.json
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\bin\Debug\net6.0\Assign_2909_Banking App Dict.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\bin\Debug\net6.0\Assign_2909_Banking App Dict.dll
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\bin\Debug\net6.0\Assign_2909_Banking App Dict.pdb
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.dll
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\refint\Assign_2909_Banking App Dict.dll
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.pdb
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\Assign_2909_Banking App Dict.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App Dict\obj\Debug\net6.0\ref\Assign_2909_Banking App Dict.dll

@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_0408\bin\Debug\net6.0\Assign_0408.exe
+C:\.net Training\NetELTP\Assign_0408\bin\Debug\net6.0\Assign_0408.deps.json
+C:\.net Training\NetELTP\Assign_0408\bin\Debug\net6.0\Assign_0408.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_0408\bin\Debug\net6.0\Assign_0408.dll
+C:\.net Training\NetELTP\Assign_0408\bin\Debug\net6.0\Assign_0408.pdb
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.dll
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\refint\Assign_0408.dll
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.pdb
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\Assign_0408.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_0408\obj\Debug\net6.0\ref\Assign_0408.dll

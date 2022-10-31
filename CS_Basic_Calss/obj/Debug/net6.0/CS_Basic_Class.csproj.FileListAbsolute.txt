@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\CS_Basic_Calss\bin\Debug\net6.0\CS_Basic_Class.exe
+C:\.net Training\NetELTP\CS_Basic_Calss\bin\Debug\net6.0\CS_Basic_Class.deps.json
+C:\.net Training\NetELTP\CS_Basic_Calss\bin\Debug\net6.0\CS_Basic_Class.runtimeconfig.json
+C:\.net Training\NetELTP\CS_Basic_Calss\bin\Debug\net6.0\CS_Basic_Class.dll
+C:\.net Training\NetELTP\CS_Basic_Calss\bin\Debug\net6.0\CS_Basic_Class.pdb
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.AssemblyInfo.cs
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.dll
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\refint\CS_Basic_Class.dll
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.pdb
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\CS_Basic_Class.genruntimeconfig.cache
+C:\.net Training\NetELTP\CS_Basic_Calss\obj\Debug\net6.0\ref\CS_Basic_Class.dll

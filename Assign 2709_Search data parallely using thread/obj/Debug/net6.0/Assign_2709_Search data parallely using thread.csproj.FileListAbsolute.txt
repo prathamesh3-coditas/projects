@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\bin\Debug\net6.0\Assign_2709_Search data parallely using thread.exe
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\bin\Debug\net6.0\Assign_2709_Search data parallely using thread.deps.json
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\bin\Debug\net6.0\Assign_2709_Search data parallely using thread.runtimeconfig.json
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\bin\Debug\net6.0\Assign_2709_Search data parallely using thread.dll
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\bin\Debug\net6.0\Assign_2709_Search data parallely using thread.pdb
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.dll
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\refint\Assign_2709_Search data parallely using thread.dll
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.pdb
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\Assign_2709_Search data parallely using thread.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign 2709_Search data parallely using thread\obj\Debug\net6.0\ref\Assign_2709_Search data parallely using thread.dll

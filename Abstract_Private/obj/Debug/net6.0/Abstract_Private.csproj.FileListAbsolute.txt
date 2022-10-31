@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Abstract_Private\bin\Debug\net6.0\Abstract_Private.exe
+C:\.net Training\NetELTP\Abstract_Private\bin\Debug\net6.0\Abstract_Private.deps.json
+C:\.net Training\NetELTP\Abstract_Private\bin\Debug\net6.0\Abstract_Private.runtimeconfig.json
+C:\.net Training\NetELTP\Abstract_Private\bin\Debug\net6.0\Abstract_Private.dll
+C:\.net Training\NetELTP\Abstract_Private\bin\Debug\net6.0\Abstract_Private.pdb
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.AssemblyInfo.cs
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.dll
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\refint\Abstract_Private.dll
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.pdb
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\Abstract_Private.genruntimeconfig.cache
+C:\.net Training\NetELTP\Abstract_Private\obj\Debug\net6.0\ref\Abstract_Private.dll

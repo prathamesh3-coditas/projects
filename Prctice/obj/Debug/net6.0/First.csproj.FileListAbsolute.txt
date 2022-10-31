@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.AssemblyInfo.cs
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\First.exe
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\First.deps.json
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\First.runtimeconfig.json
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\First.dll
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\First.pdb
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.dll
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\refint\First.dll
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.pdb
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\First.genruntimeconfig.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\ref\First.dll

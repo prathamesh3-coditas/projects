@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\Prctice.exe
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\Prctice.deps.json
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\Prctice.runtimeconfig.json
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\Prctice.dll
+C:\.net Training\NetELTP\Prctice\bin\Debug\net6.0\Prctice.pdb
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.AssemblyInfo.cs
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.dll
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\refint\Prctice.dll
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.pdb
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\Prctice.genruntimeconfig.cache
+C:\.net Training\NetELTP\Prctice\obj\Debug\net6.0\ref\Prctice.dll

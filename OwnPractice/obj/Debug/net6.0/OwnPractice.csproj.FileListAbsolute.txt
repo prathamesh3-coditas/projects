@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\OwnPractice\bin\Debug\net6.0\OwnPractice.exe
+C:\.net Training\NetELTP\OwnPractice\bin\Debug\net6.0\OwnPractice.deps.json
+C:\.net Training\NetELTP\OwnPractice\bin\Debug\net6.0\OwnPractice.runtimeconfig.json
+C:\.net Training\NetELTP\OwnPractice\bin\Debug\net6.0\OwnPractice.dll
+C:\.net Training\NetELTP\OwnPractice\bin\Debug\net6.0\OwnPractice.pdb
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.AssemblyInfo.cs
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.dll
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\refint\OwnPractice.dll
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.pdb
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\OwnPractice.genruntimeconfig.cache
+C:\.net Training\NetELTP\OwnPractice\obj\Debug\net6.0\ref\OwnPractice.dll

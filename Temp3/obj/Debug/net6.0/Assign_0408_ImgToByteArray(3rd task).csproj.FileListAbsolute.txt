@@ -1,0 +1,27 @@
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).exe
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).deps.json
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).runtimeconfig.json
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).pdb
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).AssemblyInfo.cs
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).csproj.CopyComplete
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).dll
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\refint\Assign_0408_ImgToByteArray(3rd task).dll
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).pdb
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\Assign_0408_ImgToByteArray(3rd task).genruntimeconfig.cache
+C:\.net Training\NetELTP\Temp3\obj\Debug\net6.0\ref\Assign_0408_ImgToByteArray(3rd task).dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Temp3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

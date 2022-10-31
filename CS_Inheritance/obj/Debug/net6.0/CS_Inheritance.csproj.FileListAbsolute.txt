@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\CS_Inheritance\bin\Debug\net6.0\CS_Inheritance.exe
+C:\.net Training\NetELTP\CS_Inheritance\bin\Debug\net6.0\CS_Inheritance.deps.json
+C:\.net Training\NetELTP\CS_Inheritance\bin\Debug\net6.0\CS_Inheritance.runtimeconfig.json
+C:\.net Training\NetELTP\CS_Inheritance\bin\Debug\net6.0\CS_Inheritance.dll
+C:\.net Training\NetELTP\CS_Inheritance\bin\Debug\net6.0\CS_Inheritance.pdb
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.AssemblyInfo.cs
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.dll
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\refint\CS_Inheritance.dll
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.pdb
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\CS_Inheritance.genruntimeconfig.cache
+C:\.net Training\NetELTP\CS_Inheritance\obj\Debug\net6.0\ref\CS_Inheritance.dll

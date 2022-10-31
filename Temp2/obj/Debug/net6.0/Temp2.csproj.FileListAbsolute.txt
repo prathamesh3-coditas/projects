@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Temp2\bin\Debug\net6.0\Temp2.exe
+C:\.net Training\NetELTP\Temp2\bin\Debug\net6.0\Temp2.deps.json
+C:\.net Training\NetELTP\Temp2\bin\Debug\net6.0\Temp2.runtimeconfig.json
+C:\.net Training\NetELTP\Temp2\bin\Debug\net6.0\Temp2.dll
+C:\.net Training\NetELTP\Temp2\bin\Debug\net6.0\Temp2.pdb
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.AssemblyInfo.cs
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.dll
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\refint\Temp2.dll
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.pdb
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\Temp2.genruntimeconfig.cache
+C:\.net Training\NetELTP\Temp2\obj\Debug\net6.0\ref\Temp2.dll

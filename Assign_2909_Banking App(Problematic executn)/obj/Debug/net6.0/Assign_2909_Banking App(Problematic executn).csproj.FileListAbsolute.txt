@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\bin\Debug\net6.0\Assign_2909_Banking App(Problematic executn).exe
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\bin\Debug\net6.0\Assign_2909_Banking App(Problematic executn).deps.json
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\bin\Debug\net6.0\Assign_2909_Banking App(Problematic executn).runtimeconfig.json
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\bin\Debug\net6.0\Assign_2909_Banking App(Problematic executn).dll
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\bin\Debug\net6.0\Assign_2909_Banking App(Problematic executn).pdb
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).dll
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\refint\Assign_2909_Banking App(Problematic executn).dll
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).pdb
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\Assign_2909_Banking App(Problematic executn).genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_2909_Banking App(Problematic executn)\obj\Debug\net6.0\ref\Assign_2909_Banking App(Problematic executn).dll

@@ -1,0 +1,22 @@
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\Assign_1110_Disconnected Architecture.exe
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\Assign_1110_Disconnected Architecture.deps.json
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\Assign_1110_Disconnected Architecture.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\Assign_1110_Disconnected Architecture.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\Assign_1110_Disconnected Architecture.pdb
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.csproj.CopyComplete
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\refint\Assign_1110_Disconnected Architecture.dll
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.pdb
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\Assign_1110_Disconnected Architecture.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_1110_Disconnected Architecture\obj\Debug\net6.0\ref\Assign_1110_Disconnected Architecture.dll

@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Assign_1507_List\bin\Debug\net6.0\Assign_1507_List.exe
+C:\.net Training\NetELTP\Assign_1507_List\bin\Debug\net6.0\Assign_1507_List.deps.json
+C:\.net Training\NetELTP\Assign_1507_List\bin\Debug\net6.0\Assign_1507_List.runtimeconfig.json
+C:\.net Training\NetELTP\Assign_1507_List\bin\Debug\net6.0\Assign_1507_List.dll
+C:\.net Training\NetELTP\Assign_1507_List\bin\Debug\net6.0\Assign_1507_List.pdb
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.dll
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\refint\Assign_1507_List.dll
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.pdb
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\Assign_1507_List.genruntimeconfig.cache
+C:\.net Training\NetELTP\Assign_1507_List\obj\Debug\net6.0\ref\Assign_1507_List.dll

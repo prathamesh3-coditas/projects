@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App_2607.exe
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App_2607.deps.json
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App_2607.runtimeconfig.json
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App_2607.dll
+C:\.net Training\NetELTP\CS_Gen_App\bin\Debug\net6.0\CS_Gen_App_2607.pdb
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.AssemblyInfo.cs
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.dll
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\refint\CS_Gen_App_2607.dll
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.pdb
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\CS_Gen_App_2607.genruntimeconfig.cache
+C:\.net Training\NetELTP\CS_Gen_App\obj\Debug\net6.0\ref\CS_Gen_App_2607.dll

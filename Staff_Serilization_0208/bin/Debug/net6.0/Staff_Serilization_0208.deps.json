@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Staff_Serilization_0208/1.0.0": {
+        "runtime": {
+          "Staff_Serilization_0208.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Staff_Serilization_0208/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

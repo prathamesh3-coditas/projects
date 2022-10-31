@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\Staff_Serilization_0208\bin\Debug\net6.0\Task_Staff_Serilization_0208.exe
+C:\.net Training\NetELTP\Staff_Serilization_0208\bin\Debug\net6.0\Task_Staff_Serilization_0208.deps.json
+C:\.net Training\NetELTP\Staff_Serilization_0208\bin\Debug\net6.0\Task_Staff_Serilization_0208.runtimeconfig.json
+C:\.net Training\NetELTP\Staff_Serilization_0208\bin\Debug\net6.0\Task_Staff_Serilization_0208.dll
+C:\.net Training\NetELTP\Staff_Serilization_0208\bin\Debug\net6.0\Task_Staff_Serilization_0208.pdb
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.AssemblyInfo.cs
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.dll
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\refint\Task_Staff_Serilization_0208.dll
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.pdb
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\Task_Staff_Serilization_0208.genruntimeconfig.cache
+C:\.net Training\NetELTP\Staff_Serilization_0208\obj\Debug\net6.0\ref\Task_Staff_Serilization_0208.dll

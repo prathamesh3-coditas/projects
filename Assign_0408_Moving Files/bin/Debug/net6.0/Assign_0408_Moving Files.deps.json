@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assign_0408_Moving Files/1.0.0": {
+        "runtime": {
+          "Assign_0408_Moving Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assign_0408_Moving Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

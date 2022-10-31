@@ -1,0 +1,5 @@
+C:\.net Training\NetELTP\Assign_2807\obj\Debug\net6.0\Assign_2807.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Assign_2807\obj\Debug\net6.0\Assign_2807.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Assign_2807\obj\Debug\net6.0\Assign_2807.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Assign_2807\obj\Debug\net6.0\Assign_2807.AssemblyInfo.cs
+C:\.net Training\NetELTP\Assign_2807\obj\Debug\net6.0\Assign_2807.csproj.CoreCompileInputs.cache
