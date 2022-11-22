@@ -1,0 +1,12 @@
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\bin\Debug\net6.0\Coditas_MVCApps1_Entities.deps.json
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\bin\Debug\net6.0\Coditas_MVCApps1_Entities.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\bin\Debug\net6.0\Coditas_MVCApps1_Entities.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.AssemblyInfo.cs
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\refint\Coditas_MVCApps1_Entities.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\Coditas_MVCApps1_Entities.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Entities\obj\Debug\net6.0\ref\Coditas_MVCApps1_Entities.dll

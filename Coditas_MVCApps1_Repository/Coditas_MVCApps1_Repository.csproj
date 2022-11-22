@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coditas_MVCApps1_DataAccess\Coditas_MVCApps1_DataAccess.csproj" />
+    <ProjectReference Include="..\Coditas_MVCApps1_Entities\Coditas_MVCApps1_Entities.csproj" />
+  </ItemGroup>
+
+</Project>

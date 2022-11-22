@@ -3,11 +3,12 @@
     public interface IDbAccessService<TEntity , in TPk> where TEntity : class
     {
         Task<IEnumerable<TEntity>> GetAsync();
-        Task<IEnumerable<TEntity>> GetAsync(TPk id);
-        Task<IEnumerable<TEntity>> CreateAsync(TEntity entity);
-        Task<IEnumerable<TEntity>> UpdateAsync(TPk id,TEntity entity);
+        Task<TEntity> GetAsync(TPk id);
+        Task<TEntity> CreateAsync(TEntity entity);
+        Task<TEntity> UpdateAsync(TPk id,TEntity entity);
         Task<bool> DeleteAsync(TPk id);
 
-
+        //
+        Task<IEnumerable<TEntity>> GetAsyncByCatId(TPk id);
     }
 }

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assign_0408_File Info(4th task)": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50592;http://localhost:50593"
+    }
+  }
+}

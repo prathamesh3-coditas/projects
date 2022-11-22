@@ -1,38 +1,108 @@
-﻿namespace API_Apps.models.Services
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace API_Apps.models.Services
 {
     public class ProductDataAccess : IDbAccessService<Product, int>
     {
-
         eShoppingCodiContext context;
 
         public ProductDataAccess(eShoppingCodiContext context)
         {
             this.context = context;
         }
-    
-        Task<IEnumerable<Product>> IDbAccessService<Product, int>.CreateAsync(Product entity)
+
+        async Task<Product> IDbAccessService<Product, int>.CreateAsync(Product entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await context.Products.AddAsync(entity);
+                await context.SaveChangesAsync();
+                return result.Entity;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
 
-        Task<bool> IDbAccessService<Product, int>.DeleteAsync(int id)
+        async Task<bool> IDbAccessService<Product, int>.DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var deletedRecord = await context.Products.FindAsync(id);
+
+            try
+            {
+                if (deletedRecord == null)
+                {
+                    throw new Exception();
+                }
+                context.Products.Remove(deletedRecord);
+                await context.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Record not deleted...!!!");
+            }
         }
 
-        Task<IEnumerable<Product>> IDbAccessService<Product, int>.GetAsync()
+        async Task<IEnumerable<Product>> IDbAccessService<Product, int>.GetAsync()
         {
-            throw new NotImplementedException();
+            return await context.Products.ToListAsync();
+
         }
 
-        Task<IEnumerable<Product>> IDbAccessService<Product, int>.GetAsync(int id)
+        async Task<Product> IDbAccessService<Product, int>.GetAsync(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var foundResult = await context.Products.FindAsync(id);
+                return foundResult;
+
+            }
+            catch (Exception)
+            {
+
+                throw new Exception("Record not found...!!!");
+            }
         }
 
-        Task<IEnumerable<Product>> IDbAccessService<Product, int>.UpdateAsync(int id, Product entity)
+        async Task<IEnumerable<Product>> IDbAccessService<Product, int>.GetAsyncByCatId(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var foundResult = await context.Products.FindAsync(id);
+                var result = from records in context.Products
+                             where records.CatagoryId == id
+                             select records;
+                return result;
+
+            }
+            catch (Exception)
+            {
+
+                throw new Exception("Record not found...!!!");
+            }
+        }
+        async Task<Product> IDbAccessService<Product, int>.UpdateAsync(int id, Product entity)
+        {
+            var recordToUpdate = await context.Products.FindAsync(id);
+
+            try
+            {
+
+                recordToUpdate.ProductName = entity.ProductName;
+                recordToUpdate.ProductId = entity.ProductId;
+                recordToUpdate.ManufacturerId = entity.ManufacturerId;
+
+                return recordToUpdate;
+            }
+            catch (Exception)
+            {
+
+                throw new Exception("Record not found...!!!");
+            }
         }
     }
 }
+

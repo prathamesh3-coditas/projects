@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Class_vs_Struct": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50576;http://localhost:50577"
+    }
+  }
+}

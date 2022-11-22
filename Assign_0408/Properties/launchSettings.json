@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assign_0408_CRUD in File(1st 2nd task)": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50586;http://localhost:50587"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assign_2809_Task Class": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50626;http://localhost:50627"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="6.0.0" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="6.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="6.0.0" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="6.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coditas_MVCApps1_DataAccess\Coditas_MVCApps1_DataAccess.csproj" />
+    <ProjectReference Include="..\Coditas_MVCApps1_Entities\Coditas_MVCApps1_Entities.csproj" />
+    <ProjectReference Include="..\Coditas_MVCApps1_Repository\Coditas_MVCApps1_Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,85 @@
+﻿@using Coditas_MVCApps1_DataAccess.models;
+@model Tuple<List<Catagory>,List<Product>>
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Cataory</h1>
+<h3>List of Categories</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                CatagoryId
+            </th>
+            <th>
+                CatagoryName
+            </th>
+            <th>
+                BasePrice
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Item1)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CatagoryId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CatagoryName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BasePrice)
+                </td>
+                <td>
+                    @Html.ActionLink("ShowDetails", "ShowDetails", new { catId=item.CatagoryId })
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<hr />
+
+
+
+<h2>Products</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ProductId
+            </th>
+            <th>
+                ProductName
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Item2)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Object is of same or different class": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50599;http://localhost:50600"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assign_2709_Search data parallely using thread": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50630;http://localhost:50631"
+    }
+  }
+}

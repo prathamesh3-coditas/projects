@@ -1,51 +1,38 @@
-﻿//using ClassLibrary1;
-using System.Diagnostics;
-using(Process p = Process.GetCurrentProcess())
-	p.PriorityClass = ProcessPriorityClass.High;
-//class MyClass : Class1
-//{
+﻿using System.Runtime.CompilerServices;
 
-//    public Func<int, int> Add(int a,int b)
-//    {
-//        return x => x + a + b;
-//    }
-
-//    static void Main(string[] args)
-//    {
-//        Class1 obj = new Class1();
-//        obj.Sum();
-
-//        MyClass obj2 = new MyClass();
-//        Func<int, int> func = obj2.Add(2, 3);
-//        Console.WriteLine(func(4));
-//    }
-//}
-
-async static Task Add(int a)
+interface sample
 {
-	Console.WriteLine("Inside add"+"=>"+Thread.CurrentThread.ManagedThreadId);
-	//await Task.Factory.StartNew(() =>
-	//{
-		for (int i = 0; i < 1000; i++)
-		{
-			Console.WriteLine(i+"=>"+Thread.CurrentThread.ManagedThreadId);
-		}
-	//});
+    public void print();
+}
 
-	//await Task.Run(() =>
-	//{
-	//       for (int i = 0; i < 1000; i++)
-	//          {
-	//              Console.WriteLine(i);
-	//          }
-	//   });
-	Console.WriteLine("After for"+"=>"+Thread.CurrentThread.ManagedThreadId);
+class implemented : sample
+{
+   public  void print()
+    {
+        Console.WriteLine("in class");
+    }
+}
+
+class depend
+{
+    private implemented obj;
+    public depend(implemented obj)
+    {
+        this.obj = obj;
+    }
+
+    public void print()
+    {
+        obj.print();
+    }
 }
 
 
-Console.WriteLine("before"+"=>" + Thread.CurrentThread.ManagedThreadId);
-await Add(4);
-Console.WriteLine("After"+"=>"+Thread.CurrentThread.ManagedThreadId);
-Console.ReadLine();
-
-
+class Caller
+{
+    static void Main(string[] args)
+    {
+        depend obj1 = new depend(new implemented());
+        obj1.print();
+    }
+}

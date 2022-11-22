@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ClientNS.Product>;
+@{
+    ViewData["Title"] = "getProds";
+}
+
+<h1>getProds</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(e=>e.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.CatagoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.ManufacturerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(e => e.SubCatagoryId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+
+
+    <tbody>
+
+        @foreach(var item in Model){
+            <tr>
+                <td>
+                    @Html.DisplayFor(a=> item.ProductId)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.CatagoryId)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.ManufacturerId)
+                </td>
+                <td>
+                    @Html.DisplayFor(a => item.SubCatagoryId)
+                </td>
+@*                <td>
+                    @Html.ActionLink("Edit", "Edit", new {  id=item.ProductId}) |
+                    @Html.ActionLink("Details", "Details", new {  id=item.ProductId  }) |
+                    @Html.ActionLink("Delete", "Delete", new {  id=item.ProductId  })
+                </td>*@
+
+            </tr>
+
+
+        }
+
+    </tbody>
+
+</table>
+

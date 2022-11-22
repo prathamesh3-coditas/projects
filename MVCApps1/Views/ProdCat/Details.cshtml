@@ -1,0 +1,68 @@
+﻿@model Coditas_MVCApps1_Entities.CatagoryProducts
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h1>Details</h1>
+<a asp-action="Index">Go Back</a>
+
+
+<h2>Catagory Details</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>CatagoryId</th>
+            <th>CatagoryName</th>
+            <th>BasePrice</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr> @*Here Model means 'Model' passed to view i.e. argument passed to View()*@
+            <td>@Model.catInfo.CatagoryId</td>
+            <td>@Model.catInfo.CatagoryName</td>
+            <td>@Model.catInfo.BasePrice</td>
+
+        </tr>
+
+    </tbody>
+</table>
+@if (Model.Products.Count() == 0)
+{
+    <h2>No Records Found</h2>
+}
+else
+{
+    <h2>
+        Product Details
+    </h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ProductId</th>
+                <th>ProductName</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>CatagoryId</th>
+                <th>Manufacturer</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Products)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.ProductName</td>
+                    <td>@item.Description</td>
+                    <td>@item.Price</td>
+                    <td>@item.CatagoryId</td>
+                    <td>@item.Manufacturer</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}

@@ -53,11 +53,11 @@ namespace API_Apps.models
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
-                entity.HasOne(d => d.Catagory)
-                    .WithMany(p => p.Products)
-                    .HasForeignKey(d => d.CatagoryId)
-                    .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__Product__Catagor__2A4B4B5E");
+                //entity.HasOne(d => d.Catagory)
+                //    .WithMany(p => p.Products)
+                //    .HasForeignKey(d => d.CatagoryId)
+                //    .OnDelete(DeleteBehavior.ClientSetNull)
+                //    .HasConstraintName("FK__Product__Catagor__2A4B4B5E");
             });
 
             OnModelCreatingPartial(modelBuilder);

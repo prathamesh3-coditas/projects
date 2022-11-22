@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model ClientNS.Catagory;
+
+<form asp-action="getProds" method="post">
+    @foreach (var item in ViewBag.result)
+    {
+        <input asp-for="CatagoryId" type="radio" value="@item.CatagoryId" />
+
+        @item.CatagoryName
+        <br />
+    }
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>

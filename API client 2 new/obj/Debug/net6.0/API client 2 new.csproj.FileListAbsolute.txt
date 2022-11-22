@@ -1,0 +1,15 @@
+C:\.net Training\NetELTP\API client 2 new\bin\Debug\net6.0\API client 2 new.exe
+C:\.net Training\NetELTP\API client 2 new\bin\Debug\net6.0\API client 2 new.deps.json
+C:\.net Training\NetELTP\API client 2 new\bin\Debug\net6.0\API client 2 new.runtimeconfig.json
+C:\.net Training\NetELTP\API client 2 new\bin\Debug\net6.0\API client 2 new.dll
+C:\.net Training\NetELTP\API client 2 new\bin\Debug\net6.0\API client 2 new.pdb
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.AssemblyInfo.cs
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.dll
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\refint\API client 2 new.dll
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.pdb
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\API client 2 new.genruntimeconfig.cache
+C:\.net Training\NetELTP\API client 2 new\obj\Debug\net6.0\ref\API client 2 new.dll

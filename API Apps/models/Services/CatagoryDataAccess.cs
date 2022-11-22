@@ -13,19 +13,25 @@ namespace API_Apps.models.Services
             this.context = context;
         }
 
-        async Task<IEnumerable<Catagory>> IDbAccessService<Catagory, int>.CreateAsync(Catagory entity)
+
+
+
+        async Task<Catagory> IDbAccessService<Catagory, int>.CreateAsync(Catagory entity)
         {
             try
             {
                 var result = await context.Catagories.AddAsync(entity);
                 await context.SaveChangesAsync();
-                return (IEnumerable<Catagory>)result.Entity;
+                return result.Entity;
             }
             catch (Exception ex)
             {
                 throw new Exception(ex.Message);
             }
         }
+
+
+
 
         async Task<bool> IDbAccessService<Catagory, int>.DeleteAsync(int id)
         {
@@ -38,6 +44,7 @@ namespace API_Apps.models.Services
             try
             {
                 context.Catagories.Remove(deletedRecord);
+                context.SaveChanges();
                 return true;
             }
             catch (Exception)
@@ -46,40 +53,44 @@ namespace API_Apps.models.Services
             }
         }
 
+
+
+
+        async Task<Catagory> IDbAccessService<Catagory, int>.GetAsync(int id)
+        {
+            var foundResult = await context.Catagories.FindAsync(id);
+
+            return foundResult;
+
+        }
+
+
+
+
         async Task<IEnumerable<Catagory>> IDbAccessService<Catagory, int>.GetAsync()
         {
             return await context.Catagories.ToListAsync();
-
         }
 
-        async Task<IEnumerable<Catagory>> IDbAccessService<Catagory, int>.GetAsync(int id)
+        //===============================================================
+        Task<IEnumerable<Catagory>> IDbAccessService<Catagory, int>.GetAsyncByCatId(int id)
         {
-            try
-            {
-                var foundResult = await context.Catagories.FindAsync(id);
-
-                return (IEnumerable<Catagory>)foundResult;
-
-            }
-            catch (Exception)
-            {
-
-                throw new Exception("Record not found...!!!"); 
-            }
+            throw new Exception();
         }
 
-        async Task<IEnumerable<Catagory>> IDbAccessService<Catagory, int>.UpdateAsync(int id, Catagory entity)
+        async Task<Catagory> IDbAccessService<Catagory, int>.UpdateAsync(int id, Catagory entity)
         {
             var recordToUpdate = await context.Catagories.FindAsync(id);
 
             try
             {
 
-                    recordToUpdate.CatagoryName = entity.CatagoryName;
-                    recordToUpdate.CatagoryId = entity.CatagoryId;
-                    recordToUpdate.BasePrice = entity.BasePrice;
+                recordToUpdate.CatagoryName = entity.CatagoryName;
+                recordToUpdate.CatagoryId = entity.CatagoryId;
+                recordToUpdate.BasePrice = entity.BasePrice;
 
-                    return (IEnumerable<Catagory>)recordToUpdate;
+                context.SaveChanges();
+                return recordToUpdate;
             }
             catch (Exception)
             {

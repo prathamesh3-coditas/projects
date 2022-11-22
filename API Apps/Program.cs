@@ -1,3 +1,4 @@
+using API_Apps.Custom_Middleware;
 using API_Apps.models;
 using API_Apps.models.Services;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +30,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(option =>
+{
+    option.IdleTimeout = TimeSpan.FromMinutes(20);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -40,7 +47,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseSession();
+
 app.UseAuthorization();
+
+app.UseAppExceptionHandeller();
 
 app.MapControllers();
 

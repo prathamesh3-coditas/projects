@@ -1,0 +1,17 @@
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.deps.json
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.runtimeconfig.json
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.AssemblyInfo.cs
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\refint\Coditas_MVCApps1_DataAccess.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.genruntimeconfig.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\ref\Coditas_MVCApps1_DataAccess.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_Entities.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\bin\Debug\net6.0\Coditas_MVCApps1_Entities.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_DataAccess\obj\Debug\net6.0\Coditas_MVCApps1_DataAccess.csproj.CopyComplete

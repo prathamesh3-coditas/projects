@@ -1,0 +1,17 @@
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_Repository.deps.json
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_Repository.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_Repository.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_Entities.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_DataAccess.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\bin\Debug\net6.0\Coditas_MVCApps1_Entities.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.csproj.AssemblyReference.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.AssemblyInfoInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.AssemblyInfo.cs
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.csproj.CoreCompileInputs.cache
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.csproj.CopyComplete
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\refint\Coditas_MVCApps1_Repository.dll
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\Coditas_MVCApps1_Repository.pdb
+C:\.net Training\NetELTP\Coditas_MVCApps1_Repository\obj\Debug\net6.0\ref\Coditas_MVCApps1_Repository.dll

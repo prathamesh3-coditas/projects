@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assign_1507_List_int": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50538;http://localhost:50543"
+    }
+  }
+}
