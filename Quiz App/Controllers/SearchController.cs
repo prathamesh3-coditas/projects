@@ -4,9 +4,11 @@ using System.Text.Json;
 using Quiz_App.Models;
 using Quiz_App.Models.Services;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Quiz_App.Controllers
 {
+    [Authorize]
     public class SearchController : Controller
     {
 
@@ -22,7 +24,9 @@ namespace Quiz_App.Controllers
         {
             return View();   
         }
-
+        
+        
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> SearchProducts()
         {
             return View();

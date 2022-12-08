@@ -8,13 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="microsoft.entityframeworkcore" Version="6.0.0" />
-    <PackageReference Include="microsoft.entityframeworkcore.design" Version="6.0.0">
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.10" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="6.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="6.0.0" />
-    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="6.0.0">
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="6.0.10" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="6.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>

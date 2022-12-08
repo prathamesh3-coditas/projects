@@ -8,6 +8,30 @@
 
 
 
-internal class SemaphoreS
+//internal class SemaphoreS
+//{
+//}
+
+
+string EncryptDecrypt(string str)
 {
+	char xorKey = 'd';
+	string output = string.Empty;
+	foreach (var c in str)
+	{
+		
+		output += char.ToString((char)(c ^ xorKey));
+	}
+
+
+	return output;
 }
+
+string encrypted = EncryptDecrypt("password");
+Console.WriteLine("encryption");
+Console.WriteLine(encrypted);
+
+
+Console.WriteLine("Decryption");
+Console.WriteLine(EncryptDecrypt(encrypted));
+
